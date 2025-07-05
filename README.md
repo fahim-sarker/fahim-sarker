@@ -1,11 +1,11 @@
 # Hi there 👋
 
-🚀 I'm Fahim Sarker, A Frontend Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Interfaces 🚀
+🚀 Hi, I’m Fahim Sarker — a passionate Frontend Web Developer who loves building dynamic, original, and impactful user interfaces.
 
-🔭 I’m currently working as a freelancer on fiver and upwork .🤙
+🔭 Currently working as a freelancer on Fiverr and Upwork, delivering high-quality web solutions to clients worldwide. 🤙
 
-🌱 I’m currently learning Backend Development with Node JS, Express JS and MongoDB.📗
+🌱 I’m actively expanding my skill set by learning Backend Development using Node.js, Express.js, and MongoDB. 📗
 
-❓ Ask me about anything related to the Frontend Development and related technologies.
+❓ Feel free to ask me anything related to Frontend Development, UI/UX, or modern web technologies.
 
-⚡ Fun fact: I use tab button for over spaces.
+⚡ Fun Fact: I prefer the Tab key over spaces — fight me 😄
