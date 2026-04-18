@@ -24,9 +24,6 @@ I'm currently expanding my skill set to become a Full-Stack Developer by masteri
 | **Mobile** | React Native, Expo, Mobile UI/UX |
 | **Tools & Backend** | Vercel, Firebase, Git, Husky, Node.js (Learning) |
 
-### 📂 Featured Projects
-* **Arohire Recruitment Dashboard:** A data-driven recruitment platform featuring analytics KPIs, job listing charts, and team management features.
-* **Bio Stamp 3D:** A high-performance landing page and interactive e-commerce interface designed for a modern sticker business.
 
 ### ⚡ Fun Fact
 I firmly believe the **Tab key** is superior to spaces for indentation — efficiency is key! 😄
