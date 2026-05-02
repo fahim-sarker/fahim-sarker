@@ -1,6 +1,6 @@
 # Hi there, I'm Fahim Sarker 👋
 
-### 🚀 Frontend Web & Mobile Developer
+### 🚀 Frontend Web Developer
 
 A passionate developer dedicated to building dynamic, original, and impactful user interfaces. I specialize in turning complex requirements into elegant, high-performance digital solutions across web and mobile platforms.
 
