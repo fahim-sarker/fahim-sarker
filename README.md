@@ -22,7 +22,7 @@ I'm currently expanding my skill set to become a Full-Stack Developer by masteri
 | :--- | :--- |
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Redux, GSAP, Recharts | React Hook form
 | **Mobile** | React Native, Expo, Mobile UI/UX |
-| **Tools & Backend** | Vercel, Firebase, Git, Husky, Node.js (Learning) |
+| **Tools & Backend** | Vercel, Firebase, Postman, Swagger, Git, Husky, Node.js (Learning) |
 
 
 ### ⚡ Fun Fact
